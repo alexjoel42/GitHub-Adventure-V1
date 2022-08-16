@@ -7,6 +7,14 @@
 
 # Introduction to GitHub
 
+## Hi there! 
+
+This is Alex's quick summary of what I intend to do with this repository:
+1. Clone the repository to my local Git Bash Shell.
+2. Navigate to the directory of my README.md. 
+3. Use VIM to edit the file.
+4. Then open a whole PR.
+
 _Get started using GitHub in less than an hour._
 
 <!-- 
@@ -226,15 +234,5 @@ Check out these resources to learn more or get involved:
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
-</details>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
+</
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
